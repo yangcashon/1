@@ -1,0 +1,8 @@
+<?php
+      define('asker',"凱翔");
+      const askerUrl = "www.asker.biz";
+
+      echo "您好，歡迎光臨".asker."的網站<br>";
+      
+      echo "網址為：".askerUrl."";
+   ?>
